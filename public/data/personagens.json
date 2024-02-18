@@ -1,0 +1,32 @@
+{
+  "alunos": [
+    {
+      "id": "01",
+      "name": "Blanche Lewis",
+      "photoplayer": "/magister/images/Nian.webp",
+      "nascimento": "25/03",
+      "status": "Plebeia",
+      "magia": "Fogo"
+    }
+  ],
+  "professores": [
+    {
+      "id": "01",
+      "name": "James O. Aoki",
+      "photoplayer": "/magister/images/james.png",
+      "nascimento": "02/03",
+      "status": "Plebeu",
+      "magia": "Água",
+      "materia": "História mágica e geral"
+    },
+    {
+      "id": "02",
+      "name": "Edelweiss Priestess",
+      "photoplayer": "/magister/images/edel.png",
+      "nascimento": "03/06",
+      "status": "Plebeia",
+      "magia": "Luz",
+      "materia": "Magia do elemento luz"
+    }
+  ]
+}
